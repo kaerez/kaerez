@@ -1,6 +1,6 @@
 # Hi 👋
-![cat](/img/ekoctocat.png)
+![cat](/img/hdr-ekoctocat.png)
 
 <!--
-Commented
+![cat](/img/ekoctocat.png)
 -->
